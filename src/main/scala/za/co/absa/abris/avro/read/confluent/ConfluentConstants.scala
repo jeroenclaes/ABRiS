@@ -18,6 +18,6 @@ package za.co.absa.abris.avro.read.confluent
 
 object ConfluentConstants {
 
-  val MAGIC_BYTE = 0x0
+  val MAGIC_BYTE = 0x1
   val SCHEMA_ID_SIZE_BYTES = 4
 }
